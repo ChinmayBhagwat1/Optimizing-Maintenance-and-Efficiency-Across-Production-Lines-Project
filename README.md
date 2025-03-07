@@ -1,4 +1,4 @@
-# My ML and Data Visualization Project
+# Optimizing Maintenance and Efficiency Across Production Lines Project
 
 ## Overview
 This project showcases a data analytics workflow involving Python and Tableau. It includes exploratory data analysis, data preprocessing and creating an interactive dashboard on Tableau to find business insights.
