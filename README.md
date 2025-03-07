@@ -12,7 +12,10 @@ This project showcases a data analytics workflow involving Python and Tableau. I
 - Libraries: pandas, numpy, sklearn, etc.
 - Tableau Public.
 
-## Steps to Run
+## Final Tableau Visualization
+https://public.tableau.com/app/profile/chinmay.bhagwat4457/viz/ManufacturingDatasetDashboard/Dashboard1 
+
+## Steps to Run 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/my-ml-and-data-visualization-project.git
